@@ -1,3 +1,3 @@
 # JsClosureClasses
 
-Classes, Inheritance, Multiple-inheritance. All via closures. 
+Classes, Inheritance, Multiple-inheritance. There is currently no data privacy.
